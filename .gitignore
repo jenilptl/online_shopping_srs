@@ -1,4 +1,4 @@
-# MS Office temporary files
+# MS Office temporary/hidden files (The actual .docx files are NOT ignored)
 ~$*.docx
 ~$*.pptx
 ~$*.xlsx

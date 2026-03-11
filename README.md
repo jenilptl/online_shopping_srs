@@ -15,7 +15,6 @@ The Online Shopping System is a web-based application that allows customers to b
   - State Diagrams
   - UI Screenshots (Login, Dashboard, Product Detail, Cart, Profile)
 - **[notes/](notes/)**: Lecture slides, project definitions, and other study materials.
-- **[personal/](personal/)**: Personal documents (e.g., resumes).
 
 ## Key Diagrams
 - **DFD Level 1**: Outlines the functional breakdown of the system processes.
